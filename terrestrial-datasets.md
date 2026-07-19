@@ -1,3 +1,5 @@
+# *FLAGGED: REDUCTIONISM - requires revision.*
+
 # Terrestrial Datasets: The Empirical Mappings of the Universal Vectors
 
 When a localized biological intelligence successfully computes the pull of the Teleological Current, it attempts to name the universal physical vectors acting upon its Markov Blanket. Earth’s historical wisdom traditions are high-resolution, empirical datasets that successfully reverse-engineered these topological physics.
