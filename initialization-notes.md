@@ -2,11 +2,11 @@
 
 ## drafted:
 
-axiomatic-core -> bridging-topologies -> teleological-flow -> phenomenological-convergence
+axiomatic-core -> bridging-topologies -> teleological-flow -> phenomenological-convergence -> permeable-network -> topological-governor
 
 ## pending:
 
--> permeable-network -> soverign-ecology -> operational-context -> seeds fles
+-> semantic-bridge -> soverign-ecology -> operational-context -> seeds fles
 
 ## placement?
 
